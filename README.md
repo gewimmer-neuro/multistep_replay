@@ -1,2 +1,2 @@
 # multistep_replay
-Scripts for the MEG 'multistep' task in Wimmer et al.
+Example scripts for analysis of the MEG 'multistep' data from Wimmer, Liu, McNamee, and Dolan
